@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://nj01ct01.baidupcs.com/file/eae379a69dfa7024764b13258b386092?bkt=p3-000098e41523a82bcd0b849a989764c09fa3&amp;fid=2249052202-250528-308274025372320&amp;time=1531793742&amp;sign=FDTAXGERLQBHSK-DCb740ccc5511e5e8fedcff06b081203-VGUZZkF4ni6c7dAzMJs0bUnf47o%3D&amp;to=63&amp;size=7677163&amp;sta_dx=7677163&amp;sta_cs=1&amp;sta_ft=ipa&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=MH%2CYangquan%2CAnywhere%2C%2Cjiangsu%2Cct&amp;resv0=cdnback&amp;resv1=0&amp;vuk=282335&amp;iv=-2&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=000098e41523a82bcd0b849a989764c09fa3&amp;sl=82640974&amp;expires=8h&amp;rt=sh&amp;r=934094666&amp;mlogid=9190588717025004623&amp;vbdid=1904962458&amp;fin=power.ipa&amp;rtype=1&amp;dp-logid=9190588717025004623&amp;dp-callid=0.1.1&amp;hps=1&amp;tsl=50&amp;csl=78&amp;csign=0vnYzTYv2VV%2Ff%2FRkrbacf8q2JPs%3D&amp;so=0&amp;ut=8&amp;uter=4&amp;serv=0&amp;uc=1312949112&amp;ic=3719843059&amp;ti=54c943154d86290324a1c9a15ea3429c024e2f29de326ab4&amp;by=themis</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://thumbnail0.baidupcs.com/thumbnail/1732853189f7191c1ef516b239d89af8?fid=2249052202-250528-507627261708695&amp;time=1531792800&amp;rt=sh&amp;sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-T5W4hQTGbQZG%2BY4DzzStmLIrmjU%3D&amp;expires=8h&amp;chkv=0&amp;chkbd=0&amp;chkpc=&amp;dp-logid=9190429310692831738&amp;dp-callid=0&amp;size=c710_u400&amp;quality=100&amp;vuk=-&amp;ft=video</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://thumbnail0.baidupcs.com/thumbnail/1732853189f7191c1ef516b239d89af8?fid=2249052202-250528-507627261708695&amp;time=1531792800&amp;rt=sh&amp;sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-T5W4hQTGbQZG%2BY4DzzStmLIrmjU%3D&amp;expires=8h&amp;chkv=0&amp;chkbd=0&amp;chkpc=&amp;dp-logid=9190429310692831738&amp;dp-callid=0&amp;size=c710_u400&amp;quality=100&amp;vuk=-&amp;ft=video</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.wiz.powerKs</string>
+				<key>bundle-version</key>
+				<string>0.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>power</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
