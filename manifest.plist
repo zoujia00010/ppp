@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/zoujia00010/ppp/blob/master/power.ipa</string>
+					<string>https://raw.githubusercontent.com/zoujia00010/ppp/master/power.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/zoujia00010/ppp/blob/master/test.png</string>
+					<string>https://raw.githubusercontent.com/zoujia00010/ppp/master/test.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/zoujia00010/ppp/blob/master/test.png</string>
+					<string>https://raw.githubusercontent.com/zoujia00010/ppp/master/test.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.wiz.powerKs</string>
 				<key>bundle-version</key>
-				<string>0.0.4</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
